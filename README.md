@@ -1,7 +1,7 @@
 # GettingandCleaningDataCourseProject
 Getting and Cleaning Data Course Project
 
-Step 1. Download the dataset that is available [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) to your local drive: a folder on your local drive, i.e C:\Users\yourname\Documents\Project\
+Step 1. Download the dataset that is available [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) to your local drive: i.e C:\Users\yourname\Documents\Project\
 
 
 Step 2.
